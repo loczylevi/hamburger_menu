@@ -1,3 +1,3 @@
-##__ hamburger menu
+## __ hamburger menu
 
 https://loczylevi.github.io/hamburger_menu/
